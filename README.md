@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagargit97
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Selenium with Java and SQL.
+- 🌱 I’m currently learning Selenium with Java.
 - 💞️ I’m looking to collaborate on realtime Selenium Projects
 - 📫 Reach me on email- sagar.senapati125@gmail.com
 - 😄 Pronouns: ...
