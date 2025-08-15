@@ -1,44 +1,45 @@
 <h1 align="center">Hi 👋, I'm Sagar Senapati</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 ---
 
-### 💫 About Me
-- 👀 I’m interested in **Full Stack Web Development**
-- 🌱 I’m currently learning **Python, SQL, Liquid (Shopify), React, MongoDB**
-- 💞️ I’m looking to collaborate on **real-time web development projects**
+### 🚀 About Me
+- 🏢 **Former QA Engineer (Automation & Manual Testing)** with 1.6 years of experience — transitioned into web development to pursue my passion for building scalable and interactive applications.
+- 🛍 **Shopify Frontend Developer** — worked with **Liquid**, custom themes, and Shopify APIs to deliver optimized e-commerce solutions.
+- 🌱 Currently learning **Full Stack Web Development** (HTML, CSS, JavaScript, React, **Python**, Django/Flask, Liquid, SQL, MongoDB)
+- 💻 Looking to collaborate on **real-time web development projects**
 - 📫 Reach me at **sagar.senapati125@gmail.com**
-- ⚡ Fun fact: I can debug code faster than I can decide what to eat 😄
+- ⚡ Fun fact: **I can debug code faster than I can decide what to eat 😄**
 
 ---
 
 ### 🛠 Tech Stack
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Liquid](https://img.shields.io/badge/-Liquid-000000?logo=shopify&logoColor=white)  
-
-**Backend:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-
-**Database:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-
----
-
-### 🏢 Past Experience
-- **Automation & Manual Test Engineer** — Worked on both manual and automation testing (Selenium + Java), identified and documented defects, ensured smooth releases, and collaborated with developers for quality improvements.  
-- **Shopify Frontend Developer** — Built and customized Shopify stores using Liquid, HTML, CSS, and JavaScript. Optimized store performance and created responsive, modern e-commerce layouts.  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
-### 📈 Career Journey
+### 📂 Current Projects
+- 🌐 **[Personal Portfolio Website](https://github.com/sagargit97/portfolio)** – Showcasing my skills & projects  
+- 🛒 **[E-Commerce Store](https://github.com/sagargit97/ecommerce-app)** – Shopify + Liquid + Python backend  
+- 📑 **[Blog Platform](https://github.com/sagargit97/blog-app)** – Django/Flask + SQL + CRUD  
+- 🎯 **[Task Manager App](https://github.com/sagargit97/task-manager)** – REST API (Django REST/Flask) + React + SQL
+
+---
+
+### 🏢 Career Journey
 ```mermaid
-graph LR
-A[Automation & Manual Test Engineer] --> B[Shopify Frontend Developer]
-B --> C[Full Stack Web Developer]
-style A fill:#ffcb05,stroke:#333,stroke-width:2px,color:#000;
-style B fill:#4caf50,stroke:#fff,stroke-width:2px,color:#fff;
-style C fill:#0d47a1,stroke:#fff,stroke-width:2px,color:#fff;
+graph TD
+    A[Manual Test Engineer] --> B[Automation Test Engineer]
+    B --> C[Shopify Frontend Developer]
+    C --> D[Full Stack Web Developer]
