@@ -4,9 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 🏢 **Former QA Engineer (Automation & Manual Testing)** with 1.6 years of experience — transitioned into web development to pursue my passion for building scalable and interactive applications.
-- 🛍 **Shopify Frontend Developer** — worked with **Liquid**, custom themes, and Shopify APIs to deliver optimized e-commerce solutions.
 - 🌱 Currently learning **Full Stack Web Development** (HTML, CSS, JavaScript, React, **Python**, Django/Flask, Liquid, SQL, MongoDB)
+- 🏢 **Former QA Engineer** with 3 years of experience in **manual & automation testing** — transitioned into web development to pursue my passion for building scalable and interactive applications.
 - 💻 Looking to collaborate on **real-time web development projects**
 - 📫 Reach me at **sagar.senapati125@gmail.com**
 - ⚡ Fun fact: **I can debug code faster than I can decide what to eat 😄**
@@ -37,9 +36,36 @@
 
 ---
 
-### 🏢 Career Journey
-```mermaid
-graph TD
-    A[Manual Test Engineer] --> B[Automation Test Engineer]
-    B --> C[Shopify Frontend Developer]
-    C --> D[Full Stack Web Developer]
+### 📈 Career Journey
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Developer-%2300C853?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <br>⬆<br>
+  <img src="https://img.shields.io/badge/Shopify%20Frontend%20Developer-%23634E86?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <br>⬆<br>
+  <img src="https://img.shields.io/badge/Automation%20&%20Manual%20Test%20Engineer-%23FF6F00?style=for-the-badge&logo=testing-library&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagargit97&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargit97&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sagar-senapati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sagar.senapati125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ **From [sagargit97](https://github.com/sagargit97)**
+
